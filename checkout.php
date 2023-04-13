@@ -48,8 +48,14 @@
                     <div class="form-group">
                         <label for="">Distrik</label>
                         <select class="form-select mt-2" name="nama_distrik" aria-label="Default select example">
-                            <!-- <option selected>-- Pilih Distrik--</option>
-                            <option value="3">Jakarta</option> -->
+                        </select>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label for="">Ekspedisi</label>
+                        <select class="form-select mt-2" name="nama_ekspedisi" aria-label="Default select example">
                         </select>
                     </div>
                 </div>
